@@ -1,0 +1,194 @@
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Lobster&family=PT+Sans+Narrow:wght@700&display=swap');
+$small: 300px;
+$medium: 900px;
+// font-family: 'Gruppo', cursive;
+// font-family: 'Lobster', cursive;
+// font-family: 'PT Sans Narrow', sans-serif;
+html{
+   box-sizing:border-box;
+   padding:0 auto;
+   margin:0 auto;
+   background-color: #171717;
+   
+   }
+ 
+ body{
+   font-family:'Mukta',sans-serif;
+    color:black;
+    margin:0 auto;
+    padding:0;
+    
+  }
+
+  #root{
+    background-color: #171717;
+  }
+
+#about{
+  width:100%;
+  background-color: #171717;
+  color:#444444;
+  padding:35px 0 35px 25px;
+  font-family: 'Lobster', cursive;
+  
+  .nate{
+    font-size: 2rem;
+    
+    
+  }
+  .miri{
+    margin-top:10px;
+  
+  }
+  .sarawak{
+    border-radius: 100%;
+    width:50px;
+    height:50px;
+    
+    
+  
+  }
+  
+}
+
+// Certificates and carousell
+.kara{
+  background-color: #171717;
+  padding:0 auto;
+  margin:25px auto;
+}
+
+.certholder{
+  color:black;
+  margin:25px auto;
+  background-color:#171717;
+ 
+  
+  
+  
+  .certs{
+    color:black;
+    
+    margin:auto;
+    padding: auto;
+    text-align: center;
+  
+    
+
+}}
+img{
+  object-fit:cover;
+  width:100%;
+  height:25rem;
+  
+  
+}
+
+//projects
+#projects{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  margin:50px auto 50px;
+
+}
+.quote{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom:20px;
+  
+
+
+.frame{
+  width:320px;
+  height:410px;
+ 
+}
+.framecap{
+  color:#444444;
+  font-size: 15px;
+  text-align: center;
+}
+.info{
+  color:#444444;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 9px;
+
+}
+}
+
+
+//navi
+
+.navi{
+  background-color: #EDEDED;}
+
+  .brand{
+    color:#171717;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding-left:25px;
+    font-weight: 100;
+  }
+
+  .navstuff{
+    color:#171717;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding-right:25px;
+
+  }
+
+  //titles
+  .title{
+    background-color: #444444;
+    color:#171717;
+    padding:15px 25px;
+    font-family: 'Gruppo', cursive;
+  }
+
+  
+
+//contacts
+.contactinfo{
+  margin:0 auto;
+  padding:35px 0 35px 25px;
+  width:100%;
+}
+.ringme{
+  width:100%;
+  background-color: #171717;
+  color:#444444;
+  padding:25px 0 25px 0;
+  font-family: 'Lobster', cursive;
+}
+.contactme{
+display:flex;
+flex-direction: row;
+justify-content:space-around;
+align-items:center ;
+margin:0 auto;
+padding:25px 0 25px 0;
+
+.contacts{
+  margin:0 auto;
+  padding:0 auto;
+}
+}
+.subcon{
+  width:50px;
+  height:50px;
+  transition: all .2s ease-in-out; 
+}
+.subcon:hover{
+transform:scale(1.3);
+}
+
+.linky{
+  text-decoration: none;
+  color:#444444;}
+  .linky:hover{
+    color:#EDEDED;
+  }
