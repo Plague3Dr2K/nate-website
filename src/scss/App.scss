@@ -93,13 +93,15 @@ img{
   margin:50px auto 50px;
 
 }
-.quote{
+.quote
+{
   display:flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-bottom:20px;
   
+
 
 
 .frame{
@@ -120,7 +122,13 @@ img{
 
 }
 }
-
+.markdown{
+  color:#444444;
+}
+.frame2{
+  width:320px;
+height:410px;
+}
 
 //navi
 
