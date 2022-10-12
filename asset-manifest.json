@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nate-website/static/css/main.1e0597a3.css",
-    "main.js": "/nate-website/static/js/main.accc9f52.js",
+    "main.css": "/nate-website/static/css/main.f2f1fdef.css",
+    "main.js": "/nate-website/static/js/main.25fd6600.js",
     "static/js/787.5517b2df.chunk.js": "/nate-website/static/js/787.5517b2df.chunk.js",
     "static/media/rwd.png": "/nate-website/static/media/rwd.04c665c6e7fa174a38a5.png",
     "static/media/javascript.png": "/nate-website/static/media/javascript.38b360f526f1628532f1.png",
@@ -9,12 +9,12 @@
     "static/media/instagram.png": "/nate-website/static/media/instagram.bc603acad2a8cb3bd098.png",
     "static/media/github.png": "/nate-website/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/nate-website/index.html",
-    "main.1e0597a3.css.map": "/nate-website/static/css/main.1e0597a3.css.map",
-    "main.accc9f52.js.map": "/nate-website/static/js/main.accc9f52.js.map",
+    "main.f2f1fdef.css.map": "/nate-website/static/css/main.f2f1fdef.css.map",
+    "main.25fd6600.js.map": "/nate-website/static/js/main.25fd6600.js.map",
     "787.5517b2df.chunk.js.map": "/nate-website/static/js/787.5517b2df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e0597a3.css",
-    "static/js/main.accc9f52.js"
+    "static/css/main.f2f1fdef.css",
+    "static/js/main.25fd6600.js"
   ]
 }
